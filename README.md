@@ -20,5 +20,5 @@ Based in Sacramento, CA | Python • SQL • Tableau
 
 ## 📫 Let’s Connect
 - Email: edward9dominguez@gmail.com  
-- LinkedIn: [linkedin.com/in/dominguzeedward](https://www.linkedin.com/in/dominguzedward)
+- LinkedIn: [linkedin.com/in/dominguzeedward](https://www.linkedin.com/in/dominguezedward)
 
