@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Edward Dominguez
 
-<!--
-**edward9dominguez/edward9dominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSBA Graduate | Data Analyst  
+Based in Sacramento, CA | Python • SQL • Tableau  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools  
+- **Languages:** Python, SQL, R  
+- **Data Viz:** Tableau, Excel, Matplotlib, Seaborn  
+- **Data Science:** pandas, scikit-learn, NLP, Machine Learning  
+- **Tools:** Jupyter Notebook, Spyder, Git, VSCode
+
+---
+
+## Featured Projects (Coming Soon)
+
+
+---
+
+## 📫 Let’s Connect
+- Email: edward9dominguez@gmail.com  
+- LinkedIn: [linkedin.com/in/dominguzeedward](https://www.linkedin.com/in/dominguzeedward)
+
